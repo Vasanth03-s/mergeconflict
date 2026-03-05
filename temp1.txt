@@ -1,1 +1,1 @@
-hello this is temp1
+city=bangalore
